@@ -1,0 +1,9 @@
+[package]
+name = "vulkan-xml"
+version = "0.1.0"
+authors = ["Maik Klein <maikklein@googlemail.com>"]
+
+[dependencies]
+serde = "1.0.4"
+serde_derive = "1.0.4"
+serde-xml-rs = "0.2.1"
